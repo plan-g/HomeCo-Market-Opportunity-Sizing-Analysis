@@ -1,4 +1,4 @@
-# HomeCo – Market Opportunity Sizing
+# HomeCo – Market Opportunity Sizing Analysis
 
 ## Business Context
 
